@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/navintyagi/ExternalIntegration/_apis/build/status/NavinTyagi.calculator?branchName=master)](https://dev.azure.com/navintyagi/ExternalIntegration/_build/latest?definitionId=21&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
